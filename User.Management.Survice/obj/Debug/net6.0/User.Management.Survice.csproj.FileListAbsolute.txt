@@ -1,0 +1,48 @@
+D:\C#\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.deps.json
+D:\C#\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.dll
+D:\C#\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.AssemblyReference.cache
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfoInputs.cache
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfo.cs
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.CoreCompileInputs.cache
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.dll
+D:\C#\User.Management.Survice\obj\Debug\net6.0\refint\User.Management.Survice.dll
+D:\C#\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\User.Management.Survice\obj\Debug\net6.0\ref\User.Management.Survice.dll
+D:\C#\UserApis\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.deps.json
+D:\C#\UserApis\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.dll
+D:\C#\UserApis\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.AssemblyReference.cache
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfoInputs.cache
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfo.cs
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.CoreCompileInputs.cache
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.dll
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\refint\User.Management.Survice.dll
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\UserApis\User.Management.Survice\obj\Debug\net6.0\ref\User.Management.Survice.dll
+D:\C#\UserApis\New folder\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.deps.json
+D:\C#\UserApis\New folder\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.dll
+D:\C#\UserApis\New folder\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.AssemblyReference.cache
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfoInputs.cache
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfo.cs
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.CoreCompileInputs.cache
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.dll
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\refint\User.Management.Survice.dll
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\UserApis\New folder\User.Management.Survice\obj\Debug\net6.0\ref\User.Management.Survice.dll
+D:\C#\ProjectApi\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.deps.json
+D:\C#\ProjectApi\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.dll
+D:\C#\ProjectApi\User.Management.Survice\bin\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.AssemblyReference.cache
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfoInputs.cache
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.AssemblyInfo.cs
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.csproj.CoreCompileInputs.cache
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.dll
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\refint\User.Management.Survice.dll
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\User.Management.Survice.pdb
+D:\C#\ProjectApi\User.Management.Survice\obj\Debug\net6.0\ref\User.Management.Survice.dll
